@@ -1,5 +1,5 @@
-
-  <img src="http://kefarnahum.fr/Lachouetteagence/chouette.png?raw=true" alt="Logo de la chouette agence"/>
+<p>
+ <img src="http://kefarnahum.fr/Lachouetteagence/chouette.png?raw=true" alt="Logo de la chouette agence"/>
 </p>
 
 # Objectifs : 
