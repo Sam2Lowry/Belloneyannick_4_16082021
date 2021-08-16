@@ -1,5 +1,4 @@
-![Logo de la chouette agence](http://kefarnahum.fr/Lachouetteagence/chouette.png)
-<p align="center">
+
   <img src="http://kefarnahum.fr/Lachouetteagence/chouette.png?raw=true" alt="Logo de la chouette agence"/>
 </p>
 
