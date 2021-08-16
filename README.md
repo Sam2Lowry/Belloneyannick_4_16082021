@@ -2,6 +2,7 @@
  <img src="http://kefarnahum.fr/Lachouetteagence/chouette.png?raw=true" alt="Logo de la chouette agence"/>
 </p>
 
+*Recommandation fournies par mail*
 # Objectifs : 
 
 ## Analyse de l’état actuel de SEO du site fourni :
