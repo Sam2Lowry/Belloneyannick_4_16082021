@@ -5,6 +5,7 @@
 
 # Objectifs : 
 [*Recommandations fournies par mail*]
+*[Maquette](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip) fournie à l'attention du destinataire.*
 
 ## Analyse de l’état actuel de SEO du site fourni :
 * J’aimerais que tu indiques les parties du site qui ne sont pas optimisées pour le SEO et/ou qui ne sont pas à jour en termes d’accessibilité, et que tu justifies tes choix. Pense à ajouter la bonne pratique à mettre en place pour chaque partie du site qui n’est pas optimisée, en citant tes sources. Tu trouveras [ci-joint](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/DW_P4/Mode%CC%80le-audit-SEO.xlsx) un modèle pour réaliser ton analyse. 
@@ -19,4 +20,4 @@ Il faudra bien garder en tête que le but est que notre site soit mieux classé 
 ## Comparaison des résultats
 * La vitesse de chargement des pages du site a un impact sur notre classement dans les résultats de recherche. Dans tes différentes recommandations, j’aimerais que tu prennes des mesures pour **accélérer la vitesse de chargement**, et que tu me démontres que cela fonctionne, grâce à des captures d’écran comparatives entre la version du site actuelle et celle que tu auras optimisée, fourni dans un rapport d’optimisation. Ce rapport devra inclure les comparaisons pour les 10 recommandations.
 
-*[Maquette](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip) fournie à l'attention du destinataire.*
+
