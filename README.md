@@ -2,8 +2,9 @@
  <img src="http://kefarnahum.fr/Lachouetteagence/chouette.png?raw=true" alt="Logo de la chouette agence"/>
 </p>
 
-*Recommandation fournies par mail*
+
 # Objectifs : 
+[*Recommandation fournies par mail*]
 
 ## Analyse de l’état actuel de SEO du site fourni :
 J’aimerais que tu indiques les parties du site qui ne sont pas optimisées pour le SEO et/ou qui ne sont pas à jour en termes d’accessibilité, et que tu justifies tes choix. Pense à ajouter la bonne pratique à mettre en place pour chaque partie du site qui n’est pas optimisée, en citant tes sources. Tu trouveras [ci-joint](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/DW_P4/Mode%CC%80le-audit-SEO.xlsx) un modèle pour réaliser ton analyse. Une fois ce modèle complété, j’aimerais que tu sélectionnes 10 recommandations pour améliorer le site. Je te laisse cocher ces 10 recommandations choisies dans la colonne “Action recommandée”.
