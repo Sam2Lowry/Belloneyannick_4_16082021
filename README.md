@@ -1,3 +1,5 @@
+![Logo de la chouette agence](http://kefarnahum.fr/Lachouetteagence/chouette.png)
+
 # Objectifs : 
 
 ## Analyse de l’état actuel de SEO du site fourni :
