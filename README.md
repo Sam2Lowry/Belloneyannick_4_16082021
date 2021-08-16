@@ -11,7 +11,7 @@
 * Une fois ce modèle complété, j’aimerais que tu sélectionnes 10 recommandations pour améliorer le site. Je te laisse cocher ces 10 recommandations choisies dans la colonne “Action recommandée”.
 Il faudra bien garder en tête que le but est que notre site soit mieux classé lorsqu’on tape **“Entreprise webdesign Lyon”** dans les moteurs de recherche. Martin voudrait qu’il y en ait au moins une sur la *vitesse et la taille du site* et une sur *l’accessibilité*. 
 * Actuellement, certains de nos utilisateurs rencontrent des **problèmes d’accessibilité** sur notre site, c’est un point sur lequel on veut *s’améliorer*. Tu devras donc ajouter les éléments nécessaires. 
-* *La liste de ce que tu devras implémenter se trouve à cette [adresse](https://developer.mozilla.org/fr/docs/Accessibilit%C3%A9/Checklist_accessibilite_mobile).
+* * La liste de ce que tu devras implémenter se trouve à cette [adresse](https://developer.mozilla.org/fr/docs/Accessibilit%C3%A9/Checklist_accessibilite_mobile).
 
 ## Amélioration du SEO du site
 * Il faudra ensuite optimiser notre site en appliquant tes 10 recommandations à son contenu et à son code source.
