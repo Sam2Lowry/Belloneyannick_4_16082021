@@ -13,9 +13,10 @@ Il faudra bien garder en tête que le but est que notre site soit mieux classé 
 * Actuellement, certains de nos utilisateurs rencontrent des problèmes d’accessibilité sur notre site, c’est un point sur lequel on veut s’améliorer. Tu devras donc ajouter les éléments nécessaires. La liste de ce que tu devras implémenter se trouve à cette [adresse](https://developer.mozilla.org/fr/docs/Accessibilit%C3%A9/Checklist_accessibilite_mobile).
 
 ## Amélioration du SEO du site
-Il faudra ensuite optimiser notre site en appliquant tes 10 recommandations à son contenu et à son code source. Tu devras pour cela fournir le code source complet de la version améliorée du site. Le site doit passer le W3C pour HTML et CSS.
+* Il faudra ensuite optimiser notre site en appliquant tes 10 recommandations à son contenu et à son code source.
+* * Tu devras pour cela fournir le code source complet de la version améliorée du site. Le site doit passer le W3C pour HTML et CSS.
 
 ## Comparaison des résultats
-La vitesse de chargement des pages du site a un impact sur notre classement dans les résultats de recherche. Dans tes différentes recommandations, j’aimerais que tu prennes des mesures pour accélérer la vitesse de chargement, et que tu me démontres que cela fonctionne, grâce à des captures d’écran comparatives entre la version du site actuelle et celle que tu auras optimisée, fourni dans un rapport d’optimisation. Ce rapport devra inclure les comparaisons pour les 10 recommandations.
+* La vitesse de chargement des pages du site a un impact sur notre classement dans les résultats de recherche. Dans tes différentes recommandations, j’aimerais que tu prennes des mesures pour accélérer la vitesse de chargement, et que tu me démontres que cela fonctionne, grâce à des captures d’écran comparatives entre la version du site actuelle et celle que tu auras optimisée, fourni dans un rapport d’optimisation. Ce rapport devra inclure les comparaisons pour les 10 recommandations.
 
 [Maquette](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip)
