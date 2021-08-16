@@ -5,6 +5,7 @@
 
 # Objectifs : 
 [*Recommandations fournies par mail*]
+
 *[Maquette](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip) fournie à l'attention du destinataire.*
 
 ## Analyse de l’état actuel de SEO du site fourni :
