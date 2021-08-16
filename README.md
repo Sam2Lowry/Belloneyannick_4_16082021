@@ -5,7 +5,7 @@
 
 # Objectifs : 
 ## Contraintes
-*Recommandations fournies par mail* ainsi que la [Maquette](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip).
+*Recommandations fournies par mail ainsi que la [Maquette](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/GEN_integrateur_web_P4/Starting+website.zip)*
 
 ## Analyse de l’état actuel de SEO du site fourni :
 * J’aimerais que tu indiques les parties du site qui ne sont pas optimisées pour le SEO et/ou qui ne sont pas à jour en termes d’accessibilité, et que tu justifies tes choix. Pense à ajouter la bonne pratique à mettre en place pour chaque partie du site qui n’est pas optimisée, en citant tes sources. Tu trouveras [ci-joint](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/DW_P4/Mode%CC%80le-audit-SEO.xlsx) un modèle pour réaliser ton analyse. 
