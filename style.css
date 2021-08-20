@@ -812,13 +812,13 @@ h4 {
   border-color: #364577 !important;
 }
 
-.bg-dots-bg {
+ /* .bg-dots-bg {
   background-image: url("img/dots-bg.png");
-}
+}  */
 
-.bg-lines-h2-bg {
+/* .bg-lines-h2-bg {
   background-image: url("img/lines-h2-bg.png");
-}
+} */
 
 .bg-banniere {
   background-image: url("img/la-chouette-agence-banniere.jpg");
@@ -1054,6 +1054,7 @@ h4 {
 
 .hero__constrast {
   background-color: rgba(0, 0, 0, 0.45);
+  padding: 1rem 1rem 1rem 1rem;
 }
 
 .projet__contrast {
@@ -1065,4 +1066,7 @@ h4 {
 
 .font__contrast {
   color: black !important;
+}
+.nav__bold{
+  font-weight: bold !important;
 }
