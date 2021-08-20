@@ -88,12 +88,13 @@ a:hover {
   bottom: 0;
   left: 0;
   right: 0;
-}
+  z-index: 0;
+} 
 
-.texture-paper::before {
+/* .texture-paper::before {
   background: url("img/texture-paper.png");
   background-size: 280px 280px;
-}
+}  */
 
 .b-parallax {
   background-attachment: fixed;
@@ -738,7 +739,7 @@ h4 {
 }
 
 .white {
-  color: #0c0b0b !important;
+  color: #ffffff !important;
 }
 
 .portfolio-thumb {
@@ -755,7 +756,7 @@ h4 {
 }
 
 .black-background {
-  background-color: rgba(165, 147, 99, 0.7);
+  background-color: rgba(19, 16, 7, 0.7);
   padding: 40px 40px 40px 40px;
 }
 
@@ -777,7 +778,7 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
@@ -1052,5 +1053,16 @@ h4 {
 }
 
 .hero__constrast {
-  background-color: rgba(0, 0, 0, 0.37);
+  background-color: rgba(0, 0, 0, 0.45);
+}
+
+.projet__contrast {
+  background-color: rgba(0, 0, 0, 0.45);
+  max-width : 800px;
+  padding: 1rem 1rem 1rem 1rem;
+  margin: auto;
+}
+
+.font__contrast {
+  color: black !important;
 }
