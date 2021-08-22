@@ -3,34 +3,99 @@
   <head>
     <meta charset="utf-8" />
     <title>Formulaire de contact - La Chouette agence</title>
-    <meta name="description" content="" />
+    <meta name="robots" content="index, follow" />
+    <meta
+      name="description"
+      content="Design web, portfolio, créations de site web, La Chouette Agence met ses compétences et son expertise au service de vos projets"
+    />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0, viewport-fit=cover"
     />
     <link rel="shortcut icon" type="image/png" href="favicon.jpg" />
 
-    <link rel="stylesheet" type="text/css" href="./css/bootstrap_mini.css" />
+    <link
+      rel="preload"
+      as="font"
+      href="fonts/et-line.woff"
+      type="font/woff2"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="prefetch"
+      as="font"
+      href="fonts/fontawesome-webfont.woff2"
+      type="font/woff2"
+      crossorigin="anonymous"
+    />
+
+    <link
+      rel="preload"
+      as="image"
+      href="img/la-chouette-agence-banniere.webp"
+    />
+    <link rel="preload" as="image" href="img/image-de-presentation.webp" />
+    <link
+      rel="stylesheet"
+      href="./css/bootstrap_mini.css"
+      media="print"
+      onload="this.media='all'"
+    />
+    <link
+      rel="stylesheet"
+      href="./css/font-awesome_mini.css"
+      media="print"
+      onload="this.media='all'"
+    />
+    <link
+      rel="stylesheet"
+      href="./css/et-line_mini.css"
+      media="print"
+      onload="this.media='all'"
+    />
+
+    <!-- <link rel="stylesheet" type="text/css" href="./css/bootstrap_mini.css" /> -->
     <link rel="stylesheet" type="text/css" href="style_mini.css" />
-    <link rel="stylesheet" type="text/css" href="./css/font-awesome_mini.css" />
-    <link rel="stylesheet" type="text/css" href="./css/et-line_mini.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="./css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="./css/et-line.css" /> -->
 
     <script src="./js/jquery-2.1.0.js" defer></script>
     <script src="./js/bootstrap.js" defer></script>
     <script src="./js/blocs.js" defer></script>
-    <script src="./js/jqBootstrapValidation.js" defer></script>
-    <script src="./js/formHandler.js" defer></script>
+    <script src="./js/jquery.touchSwipe.js" defer></script>
+    <script src="./js/gmaps.js" defer></script>
     <!-- Balises meta Open Graph -->
-    <meta property="og:url" content="http://kefarnahum.fr/Lachouetteagence/index.html" />
-    <meta property="og:title" content="Formulaire de contact - La Chouette agence" />
-    <meta property="og:description" content="Formulaire de contact de la Chouette agence, entreprise de webdesign à Lyon" />
-    <meta name="og:image" content="http://kefarnahum.fr/Lachouetteagence/img/logo-card.png" />
+    <meta
+      property="og:url"
+      content="http://kefarnahum.fr/Lachouetteagence/index.html"
+    />
+    <meta
+      property="og:title"
+      content="Formulaire de contact - La Chouette agence"
+    />
+    <meta
+      property="og:description"
+      content="Formulaire de contact de la Chouette agence, entreprise de webdesign à Lyon"
+    />
+    <meta
+      name="og:image"
+      content="http://kefarnahum.fr/Lachouetteagence/img/logo-card.png"
+    />
     <!-- Meta card Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@OCFrance" />
-    <meta name="twitter:title" content="Formulaire de contact - La Chouette agence" />
-    <meta name="twitter:description" content="Formulaire de contact - La Chouette agence, entreprise de webdesign à Lyon" />
-    <meta name="twitter:image" content="http://kefarnahum.fr/Lachouetteagence/img/logo-card.png" />
+    <meta
+      name="twitter:title"
+      content="Formulaire de contact - La Chouette agence"
+    />
+    <meta
+      name="twitter:description"
+      content="Formulaire de contact - La Chouette agence, entreprise de webdesign à Lyon"
+    />
+    <meta
+      name="twitter:image"
+      content="http://kefarnahum.fr/Lachouetteagence/img/logo-card.png"
+    />
     <!-- Analytics -->
     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-ED83H74RD7"></script>
     <script>
@@ -52,10 +117,10 @@
             <div class="navbar-header">
               <a class="navbar-brand" href="index.html"
                 ><img
-                  src="img/la-chouette-agence.webp"
-                  title="La chouette agence - Entreprise de webdesign à Lyon"
-                  alt="Logo de la Chouette agence"
-                  height="40"
+                src="img/la-chouette-agence.webp"
+                alt="Logo de La Chouette agence"
+                width="386"
+                height="72"
               /></a>
               <button
                 id="nav-toggle"
