@@ -3,35 +3,99 @@
   <head>
     <meta charset="utf-8" />
     <title>La Chouette agence - Agence de webdesign à Lyon</title>
-
-    <meta name="description" content="" />
+    <meta name="robots" content="index, follow" />
+    <meta
+      name="description"
+      content="Design web, portfolio, créations de site web, La Chouette Agence met ses compétences et son expertise au service de vos projets"
+    />
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0, viewport-fit=cover"
     />
+    <link
+      rel="canonical"
+      href="https://kefarnahum.fr/Lachouetteagence/index.html"
+    />
     <link rel="shortcut icon" type="image/png" href="favicon.jpg" />
-    
-    <link rel="stylesheet" type="text/css" href="./css/bootstrap.css" />
-    <link rel="stylesheet" type="text/css" href="style.css" />
-    <link rel="stylesheet" type="text/css" href="./css/font-awesome.css" />
-    <link rel="stylesheet" type="text/css" href="./css/et-line.css" />
+    <link
+      rel="preload"
+      as="font"
+      href="fonts/et-line.woff"
+      type="font/woff2"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="prefetch"
+      as="font"
+      href="fonts/fontawesome-webfont.woff2"
+      type="font/woff2"
+      crossorigin="anonymous"
+    />
 
-    <script src="./js/jquery-2.1.0.js" async></script>
-    <script src="./js/bootstrap.js" async></script>
-    <script src="./js/blocs.js" async></script>
-    <script src="./js/jquery.touchSwipe.js" async></script>
-    <script src="./js/gmaps.js" async></script>
-   <!-- Balises meta Open Graph -->
-   <meta property="og:url" content="http://kefarnahum.fr/Lachouetteagence/index.html" />
-   <meta property="og:title" content="La Chouette agence - Agence de webdesign" />
-   <meta property="og:description" content="Bienvenue chez La Chouette agence, entreprise de webdesign lyonnaise" />
-   <meta name="og:image" content="http://kefarnahum.fr/Lachouetteagence/img/logo-card.png" />
-   <!-- Meta card Twitter -->
-   <meta name="twitter:card" content="summary_large_image" />
-   <meta name="twitter:site" content="@OCFrance" />
-   <meta name="twitter:title" content="La chouette agence" />
-   <meta name="twitter:description" content="Bienvenue chez La Chouette agence, entreprise de webdesign lyonnaise" />
-   <meta name="twitter:image" content="http://kefarnahum.fr/Lachouetteagence/img/logo-card.png" />
+    <link
+      rel="preload"
+      as="image"
+      href="img/la-chouette-agence-banniere.webp"
+    />
+    <link rel="preload" as="image" href="img/image-de-presentation.webp" />
+    <link
+      rel="stylesheet"
+      href="./css/bootstrap_mini.css"
+      media="print"
+      onload="this.media='all'"
+    />
+    <link
+      rel="stylesheet"
+      href="./css/font-awesome_mini.css"
+      media="print"
+      onload="this.media='all'"
+    />
+    <link
+      rel="stylesheet"
+      href="./css/et-line_mini.css"
+      media="print"
+      onload="this.media='all'"
+    />
+
+    <!-- <link rel="stylesheet" type="text/css" href="./css/bootstrap_mini.css" /> -->
+    <link rel="stylesheet" type="text/css" href="style_mini.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="./css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="./css/et-line.css" /> -->
+
+    <script src="./js/jquery-2.1.0.js" defer></script>
+    <script src="./js/bootstrap.js" defer></script>
+    <script src="./js/blocs.js" defer></script>
+    <script src="./js/jquery.touchSwipe.js" defer></script>
+    <script src="./js/gmaps.js" defer></script>
+    <!-- Balises meta Open Graph -->
+    <meta
+      property="og:url"
+      content="http://kefarnahum.fr/Lachouetteagence/index.html"
+    />
+    <meta
+      property="og:title"
+      content="La Chouette agence - Agence de webdesign"
+    />
+    <meta
+      property="og:description"
+      content="Bienvenue chez La Chouette agence, entreprise de webdesign lyonnaise"
+    />
+    <meta
+      name="og:image"
+      content="http://kefarnahum.fr/Lachouetteagence/img/logo-card.png"
+    />
+    <!-- Meta card Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@OCFrance" />
+    <meta name="twitter:title" content="La chouette agence" />
+    <meta
+      name="twitter:description"
+      content="Bienvenue chez La Chouette agence, entreprise de webdesign lyonnaise"
+    />
+    <meta
+      name="twitter:image"
+      content="http://kefarnahum.fr/Lachouetteagence/img/logo-card.png"
+    />
     <!-- Analytics -->
     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-ED83H74RD7"></script>
     <script>
@@ -51,7 +115,6 @@
         <div class="container bloc-sm">
           <nav class="navbar row">
             <div class="navbar-header">
-              <!-- <div class="keywords" style="color:#cccccc;font-size:1px;">Agence web à lyon, stratégie web, web design, illustrations, design de site web, site web, web, internet, site internet, site</div> -->
               <a
                 class="navbar-brand"
                 href="index.html"
@@ -59,9 +122,10 @@
                 ><img
                   src="img/la-chouette-agence.webp"
                   alt="Logo de La Chouette agence"
-                  height="40"
+                  width="386"
+                  height="72"
               /></a>
-              <!-- <div class="keywords" style="color:#cccccc;font-size:1px;">Agence web à lyon, stratégie web, web design, illustrations, design de site web, site web, web, internet, site internet, site</div> -->
+
               <button
                 id="nav-toggle"
                 type="button"
@@ -122,7 +186,8 @@
                 title="La chouette agence - Wedesign à Lyon"
                 class="center-block image-resize-mode"
                 width="100"
-                alt="La chouette agence, agence web lyon, création logo lyon"
+                height="100"
+                alt="Logo de La chouette agence, agence de créations digitales et webdesign à lyon"
               />
               <h1 class="text-center hero-bloc-text tc-white">
                 La chouette agence.
@@ -292,15 +357,19 @@
             <div class="col-sm-6">
               <a
                 href="#"
-                title="Refonte du site web d'un journal"
+                title="Apporter une solution polyvalente à vos besoins dans l'information"
                 data-lightbox="img/journal-local.webp"
                 data-gallery-id="gallery-1"
                 data-caption="Refonte d'un site web pour un journal local"
                 data-frame="snapshot-lb"
                 ><img
                   src="img/journal-local.webp"
+                  width="320"
+                  height="320"
+                  loading="lazy"
                   alt="Site web d'un journal"
                   class="img-responsive portfolio-thumb"
+                  title="Gestion de contenus et d'informations pour diffuseurs"
               /></a>
               <h3 class="mg-md text-center">
                 Refonte d'un site web pour un journal local
@@ -313,15 +382,19 @@
             <div class="col-sm-6">
               <a
                 href="#"
-                title="Création d'un site web pour photographes"
+                title="Création de portfolios dynamiques pour photographes"
                 data-lightbox="img/site-photographies.webp"
                 data-gallery-id="gallery-1"
                 data-caption="Création d'un site web pour photographes"
                 data-frame="snapshot-lb"
                 ><img
                   src="img/site-photographies.webp"
+                  width="320"
+                  height="320"
+                  loading="lazy"
                   class="img-responsive portfolio-thumb"
                   alt="Site web pour photographes"
+                  title="Conception graphiques de supports digitales pour photographes"
               /></a>
               <h3 class="mg-md text-center">
                 Création d'un site web pour photographes
@@ -336,15 +409,19 @@
             <div class="col-sm-6">
               <a
                 href="#"
-                title="Création d'un site pour un Globe-trotteur"
+                title="Création d'une vitrine digitale pour un Globe-trotteur"
                 data-lightbox="img/site-globetrotteur.webp"
                 data-gallery-id="gallery-1"
                 data-caption="Création d'un site internet pour un voyageur"
                 data-frame="snapshot-lb"
                 ><img
                   src="img/site-globetrotteur.webp"
+                  width="320"
+                  height="320"
+                  loading="lazy"
                   class="img-responsive portfolio-thumb"
                   alt="Site web pour voyageur"
+                  title="Mise en place d'une solution digitale"
               /></a>
               <h3 class="mg-md text-center">
                 Création d'un site internet pour un voyageur
@@ -357,15 +434,19 @@
             <div class="col-sm-6">
               <a
                 href="#"
-                title="Conception d'un site pour une agence maritale"
+                title="Conception d'un site responsive pour une agence maritale"
                 data-lightbox="img/agence-de-mariage.webp"
                 data-gallery-id="gallery-1"
                 data-caption="Conception d'un site pour une agence de mariage"
                 data-frame="snapshot-lb"
                 ><img
                   src="img/agence-de-mariage.webp"
+                  width="320"
+                  height="320"
+                  loading="lazy"
                   class="img-responsive portfolio-thumb"
                   alt="Site web pour une agence de mariage"
+                  title="Supports de communication d'une agence maritale"
               /></a>
               <h3 class="mg-md text-center">
                 Conception d'un site pour une agence de mariage
